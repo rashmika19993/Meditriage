@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <rect width="720" height="960" fill="#F7F3E8"/>
+  <rect x="36" y="36" width="648" height="888" fill="none" stroke="#1E293B" stroke-width="3"/>
+  <text x="60" y="90" font-family="Georgia, serif" font-size="28" fill="#0F172A" font-weight="700">City Ambulatory Clinic</text>
+  <text x="60" y="124" font-family="Georgia, serif" font-size="16" fill="#334155">Rx  Sample 1 (High Risk Demo)</text>
+  <line x1="60" y1="145" x2="660" y2="145" stroke="#94A3B8" stroke-width="1"/>
+  <text x="60" y="190" font-family="Courier New, monospace" font-size="22" fill="#0F172A">Patient: Demo Case A</text>
+  <text x="60" y="230" font-family="Courier New, monospace" font-size="22" fill="#0F172A">Date: 01 Oct 2026</text>
+  <text x="60" y="300" font-family="Georgia, serif" font-size="26" fill="#0F172A" font-style="italic">1. Warfarin 5mg daily</text>
+  <text x="60" y="360" font-family="Georgia, serif" font-size="26" fill="#0F172A" font-style="italic">2. Aspirin 100mg daily</text>
+  <text x="60" y="420" font-family="Georgia, serif" font-size="26" fill="#0F172A" font-style="italic">3. Ibuprofen 400mg PRN</text>
+  <text x="60" y="500" font-family="Courier New, monospace" font-size="16" fill="#475569">For pain / inflammation as needed</text>
+  <text x="60" y="880" font-family="Georgia, serif" font-size="18" fill="#64748B">Dr. Anusha Silva  GP</text>
+</svg>
